@@ -1,8 +1,7 @@
 /*
  * std_macros.h
  *
- * Created: 2/17/2018 3:37:09 PM
- *  Author: Mohamed Zaghlol
+ * Created: sep 2023
  */
 #define REGISTER_SIZE 8
 #define SET_BIT(reg,bit)    reg|=(1<<bit)
